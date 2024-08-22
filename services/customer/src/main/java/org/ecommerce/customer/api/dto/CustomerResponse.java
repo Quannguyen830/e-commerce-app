@@ -1,4 +1,4 @@
-package org.ecommerce.customer.customer;
+package org.ecommerce.customer.api;
 
 public record CustomerResponse (
         String id,
