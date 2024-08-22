@@ -1,4 +1,4 @@
-package org.ecommerce.customer.api.exceptionHandler;
+package org.ecommerce.customer.exceptionHandler;
 
 import java.util.Map;
 

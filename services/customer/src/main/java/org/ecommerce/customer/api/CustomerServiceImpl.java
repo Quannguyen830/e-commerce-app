@@ -1,7 +1,9 @@
-package org.ecommerce.customer.customer;
+package org.ecommerce.customer.api;
 
 import lombok.RequiredArgsConstructor;
 import org.apache.commons.lang.StringUtils;
+import org.ecommerce.customer.api.dto.CustomerRequest;
+import org.ecommerce.customer.api.dto.CustomerResponse;
 import org.ecommerce.customer.exception.CustomerNotFoundException;
 import org.springframework.stereotype.Service;
 

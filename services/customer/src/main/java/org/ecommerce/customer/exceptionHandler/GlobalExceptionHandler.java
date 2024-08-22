@@ -1,4 +1,4 @@
-package org.ecommerce.customer.api.exceptionHandler;
+package org.ecommerce.customer.exceptionHandler;
 
 import org.ecommerce.customer.exception.CustomerNotFoundException;
 import org.springframework.http.HttpStatus;

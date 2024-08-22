@@ -1,4 +1,4 @@
-package org.ecommerce.customer.customer;
+package org.ecommerce.customer.api;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

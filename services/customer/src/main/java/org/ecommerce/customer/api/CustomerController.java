@@ -1,9 +1,10 @@
-package org.ecommerce.customer.customer;
+package org.ecommerce.customer.api;
 
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
+import org.ecommerce.customer.api.dto.CustomerRequest;
+import org.ecommerce.customer.api.dto.CustomerResponse;
 import org.springframework.http.ResponseEntity;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

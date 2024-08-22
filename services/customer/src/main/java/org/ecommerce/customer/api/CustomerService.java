@@ -1,4 +1,7 @@
-package org.ecommerce.customer.customer;
+package org.ecommerce.customer.api;
+
+import org.ecommerce.customer.api.dto.CustomerRequest;
+import org.ecommerce.customer.api.dto.CustomerResponse;
 
 import java.util.List;
 
