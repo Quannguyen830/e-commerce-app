@@ -1,3 +1,1 @@
-This application works as a E-commerce website with ability to register, login, place order and receiving notification (as email).  
-This web application is designed using a microservices architecture, enabling modular development and deployment. Each microservice handles a specific business function including customer, notification, order, product, payment mangement. The application uses RESTful APIs for communication between services (using OpenFeign and RestTemplate).
-With 2 main databases both SQL and NoSQL (PostgreSQL and MongoDB), the microservice contains different types of data storing structure. Kafka is also be used as the real-time message query, ensuring the functionality of notification (as email). API Gateway works as a Load Balancer to balancing the loads of request inside an Eureka server, where all the services being held and run.
+
